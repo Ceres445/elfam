@@ -7,7 +7,7 @@
 
 2. **Exile from God**: The poem also reflects a sense of spiritual and existential exile. The speaker expresses a feeling of being disconnected from God or a higher spiritual power. This sense of separation from the divine can be interpreted as a representation of the human condition. Many religious and philosophical traditions explore the idea of humans being estranged from their true spiritual nature, which can lead to a sense of emptiness or longing for something greater.
 
-3. **The Sea of Life**: The sea in the poem is not only a literal body of water but also a symbol of the vast and unpredictable nature of existence. It represents the challenges and uncertainties that humans face in their lives. The sea is described as cold, desolate, and unforgiving, much like the world itself can be at times.
+	1. **The Sea of Life**: The sea in the poem is not only a literal body of water but also a symbol of the vast and unpredictable nature of existence. It represents the challenges and uncertainties that humans face in their lives. The sea is described as cold, desolate, and unforgiving, much like the world itself can be at times.
 
 4. **Allegory**: An allegory is a literary device in which characters, events, and symbols represent abstract ideas or concepts. In this case, the seafarer's journey can be seen as an allegory for the human journey through life. The struggles and hardships faced by the sailor mirror the challenges and hardships that people encounter in their own lives.
 

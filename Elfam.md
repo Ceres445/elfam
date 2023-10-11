@@ -11,6 +11,7 @@ tags:
  - [[Seafarer]] - [link](https://poemanalysis.com/ezra-pound/the-seafarer/)
  - [[The Wife of Bath]] - [link](https://www.cliffsnotes.com/literature/c/the-canterbury-tales/summary-and-analysis/the-wife-of-baths-prologue-and-tale) 
  - [[Renaissance]]
+ - [[Acads/elfam/Wife's Lament|Wife's Lament]] 
 
 
 
