@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "fc889462262d6efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a5a1c9e2c6441e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d6936e355b6e60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonnets - Renaissance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49bc5aa7cc6859d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neo Classical Period.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "213ecf63286d5942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "enjambment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "399331b1bb4267d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "caesurae.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "561d184d5124875b",
+    "type": "split",
+    "children": [
+      {
+        "id": "47bf6dc8fa8f3d51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04b6c43341ecbb1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5419745dfe3df7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "syncop",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51f411cdcbe13116",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1bb09673f156d4df",
+    "type": "split",
+    "children": [
+      {
+        "id": "89aabf1235d4235d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0561f384666d3526",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sonnets - Renaissance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "683e047d5893b06f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sonnets - Renaissance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4f183122e9db5ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce7aecbfb6b0b7ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sonnets - Renaissance.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9d6936e355b6e60e",
+  "lastOpenFiles": [
+    "Neo Classical Period.md",
+    "syncope.md",
+    "enjambment.md",
+    "caesurae.md",
+    "Sonnets - Renaissance.md",
+    "Romantic Period.md",
+    "ELFAM/ELFAM 191be42535ab465d897ac2546726affc/shutterstock_1208246680-2-min.webp",
+    "ELFAM/ELFAM 191be42535ab465d897ac2546726affc.pdf",
+    "ELFAM/ELFAM 191be42535ab465d897ac2546726affc",
+    "ELFAM",
+    "ELFAM.zip",
+    "Unconfirmed 872758.crdownload",
+    "Shakespeare.md"
+  ]
+}

@@ -1,0 +1,1 @@
+- Syncope refers to a literary device that involves the shortening of a word by removing or omitting letters.

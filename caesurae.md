@@ -1,0 +1,2 @@
+- It is a literary device used in poems
+- Caesurae are seen when the poet inserts a pause, either through punctuation or meter, in the middle of a line. it can fall at the beginning, the true middle, or near the end. For example, line eight reads: “I fondly ask. But patience, to prevent”. There is another example in line twelve near the end of the poem, “Is Kingly. Thousands at his bidding speed”.

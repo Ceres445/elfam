@@ -22,5 +22,5 @@
  - [Link](https://poemanalysis.com/william-shakespeare/sonnet-130/)
 
 
-# OTTHA 
+# Othello 
  - Iago fools Othello into thinking that Desdemona( Othello's wife) has been unfaithful to him with Cassio ( Othello's army lieutenant) . Emily catches Othello killing Desdemona (Emily is Iago's wife and Desdemona's servant). She knows that Iago is deceitful and Cassio and Desdmona would not betray Othello. She finds out the truth about Iago and Iago kills her and runs. Othello and Cassio catch Iago and get the truth but he doesn't speak. Othello asks his men to remember him and unalives himself. Cassio becomes army commander and will have the power to sentence Iago.
